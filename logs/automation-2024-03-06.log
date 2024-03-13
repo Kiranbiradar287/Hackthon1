@@ -1,0 +1,57 @@
+11:19:39.862 [main] INFO  testCases.TC_01_CabSelectsection - print the Carname and lowest car price in excel
+11:20:04.460 [main] INFO  testCases.TC_02_Giftsection - click on giftmenu
+11:20:07.110 [main] INFO  testCases.TC_02_Giftsection - click on wedding gift section
+11:23:23.057 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+11:23:33.641 [main] INFO  testCases.TC_03_Hotelbookingsection - click on hotel menu
+14:49:51.730 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+14:49:57.173 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+14:50:40.743 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+14:50:46.014 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+14:52:48.012 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+14:52:53.264 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+14:57:11.055 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+14:57:14.782 [main] INFO  testCases.TC_01_CabSelectsection - click on cab
+14:57:17.866 [main] INFO  testCases.TC_01_CabSelectsection - select from city
+14:57:23.664 [main] INFO  testCases.TC_01_CabSelectsection - select to city
+14:57:24.329 [main] INFO  testCases.TC_01_CabSelectsection - select date
+14:57:30.501 [main] INFO  testCases.TC_01_CabSelectsection - click on searchbutton
+14:57:36.104 [main] INFO  testCases.TC_01_CabSelectsection - click on SUV type car
+14:57:36.409 [main] INFO  testCases.TC_01_CabSelectsection - print Carname
+14:57:36.756 [main] INFO  testCases.TC_01_CabSelectsection - print the lowest car price
+14:57:39.047 [main] INFO  testCases.TC_01_CabSelectsection - print the Carname and lowest car price in excel
+14:57:44.729 [main] INFO  testCases.TC_02_Giftsection - click on giftmenu
+14:57:57.246 [main] INFO  testCases.TC_02_Giftsection - click on wedding gift section
+14:57:59.524 [main] INFO  testCases.TC_02_Giftsection - enter the user details
+14:58:00.099 [main] INFO  testCases.TC_02_Giftsection - click on buy now button
+14:58:00.436 [main] INFO  testCases.TC_02_Giftsection - print the error msg
+14:58:00.671 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+14:58:11.047 [main] INFO  testCases.TC_03_Hotelbookingsection - click on hotel menu
+14:58:12.072 [main] INFO  testCases.TC_03_Hotelbookingsection - click on room info
+14:58:12.650 [main] INFO  testCases.TC_03_Hotelbookingsection - click on adult list
+14:54:16.761 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+14:56:44.797 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+14:56:48.371 [main] INFO  testCases.TC_01_CabSelectsection - click on cab
+14:56:51.267 [main] INFO  testCases.TC_01_CabSelectsection - select from city
+14:56:56.955 [main] INFO  testCases.TC_01_CabSelectsection - select to city
+14:56:57.509 [main] INFO  testCases.TC_01_CabSelectsection - select date
+14:57:01.390 [main] INFO  testCases.TC_01_CabSelectsection - click on searchbutton
+14:57:11.690 [main] INFO  testCases.TC_01_CabSelectsection - click on SUV type car
+14:57:11.994 [main] INFO  testCases.TC_01_CabSelectsection - print Carname
+14:57:12.281 [main] INFO  testCases.TC_01_CabSelectsection - print the lowest car price
+14:57:14.106 [main] INFO  testCases.TC_01_CabSelectsection - print the Carname and lowest car price in excel
+14:57:18.640 [main] INFO  testCases.TC_02_Giftsection - click on giftmenu
+14:57:21.215 [main] INFO  testCases.TC_02_Giftsection - click on wedding gift section
+14:57:24.695 [main] INFO  testCases.TC_02_Giftsection - enter the user details
+14:57:25.288 [main] INFO  testCases.TC_02_Giftsection - click on buy now button
+14:57:25.650 [main] INFO  testCases.TC_02_Giftsection - print the error msg
+14:57:25.892 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+14:57:36.415 [main] INFO  testCases.TC_03_Hotelbookingsection - click on hotel menu
+14:57:37.533 [main] INFO  testCases.TC_03_Hotelbookingsection - click on room info
+14:57:38.191 [main] INFO  testCases.TC_03_Hotelbookingsection - click on adult list
+09:55:29.395 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+09:55:33.019 [main] INFO  testCases.TC_01_CabSelectsection - click on cab
+09:55:36.563 [main] INFO  testCases.TC_01_CabSelectsection - select from city
+09:55:42.382 [main] INFO  testCases.TC_01_CabSelectsection - select to city
+09:55:43.085 [main] INFO  testCases.TC_01_CabSelectsection - select date
+09:55:47.960 [main] INFO  testCases.TC_01_CabSelectsection - click on searchbutton
+09:55:55.964 [main] INFO  testCases.TC_01_CabSelectsection - click on SUV type car

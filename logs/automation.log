@@ -1,0 +1,29 @@
+21:29:01.140 [main] INFO  testCases.TC_01_CabSelectsection - print the Carname and lowest car price in excel
+21:29:07.255 [main] INFO  testCases.TC_02_Giftsection - click on giftmenu
+21:29:10.349 [main] INFO  testCases.TC_02_Giftsection - click on wedding gift section
+21:29:13.037 [main] INFO  testCases.TC_02_Giftsection - enter the user details
+21:29:13.744 [main] INFO  testCases.TC_02_Giftsection - click on buy now button
+21:29:14.387 [main] INFO  testCases.TC_02_Giftsection - print the error msg
+21:29:14.828 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+21:29:25.701 [main] INFO  testCases.TC_03_Hotelbookingsection - click on hotel menu
+21:29:28.169 [main] INFO  testCases.TC_03_Hotelbookingsection - click on room info
+21:29:29.065 [main] INFO  testCases.TC_03_Hotelbookingsection - click on adult list
+21:34:26.145 [main] INFO  testCases.TC_01_CabSelectsection -  ******Cab Selection test case satring********** 
+21:34:30.134 [main] INFO  testCases.TC_01_CabSelectsection - click on cab
+21:34:34.166 [main] INFO  testCases.TC_01_CabSelectsection - select from city
+21:34:40.433 [main] INFO  testCases.TC_01_CabSelectsection - select to city
+21:34:41.308 [main] INFO  testCases.TC_01_CabSelectsection - select date
+21:34:46.951 [main] INFO  testCases.TC_01_CabSelectsection - click on searchbutton
+21:34:54.445 [main] INFO  testCases.TC_01_CabSelectsection - click on SUV type car
+21:34:54.894 [main] INFO  testCases.TC_01_CabSelectsection - print Carname
+21:34:55.317 [main] INFO  testCases.TC_01_CabSelectsection - print the lowest car price
+21:34:58.168 [main] INFO  testCases.TC_01_CabSelectsection - print the Carname and lowest car price in excel
+21:35:03.775 [main] INFO  testCases.TC_02_Giftsection - click on giftmenu
+21:35:06.987 [main] INFO  testCases.TC_02_Giftsection - click on wedding gift section
+21:35:09.611 [main] INFO  testCases.TC_02_Giftsection - enter the user details
+21:35:10.696 [main] INFO  testCases.TC_02_Giftsection - click on buy now button
+21:35:11.200 [main] INFO  testCases.TC_02_Giftsection - print the error msg
+21:35:11.557 [main] INFO  testCases.TC_03_Hotelbookingsection - *****HotelBooking section start*****
+21:35:22.232 [main] INFO  testCases.TC_03_Hotelbookingsection - click on hotel menu
+21:35:25.448 [main] INFO  testCases.TC_03_Hotelbookingsection - click on room info
+21:35:26.815 [main] INFO  testCases.TC_03_Hotelbookingsection - click on adult list
